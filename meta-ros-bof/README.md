@@ -16,7 +16,7 @@ Day 1, Break 2, 1510-1540, Humble
 - Lexi Winters, Blue River Technology
 - Andrew Murtagh, Airpotics
 - Manuel Segarra-Abad, Unikie Oy
-- Sai Kishor, PAL RObotics
+- Sai Kishor, PAL Robotics
 - Kalle Kovisto, Unikie Oy
 - Sarvesh Pimpalkar, Analog Devices
 - Victor Mayoral-Viches, Acceleration Robotics

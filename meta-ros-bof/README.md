@@ -20,3 +20,9 @@
 - Niamh Donnelly, Akara Robotics
 - Divya Aggrawal, Apex.AI
 - Make Baker, eSol
+- Gourav Vikhe, Technoyantra
+- Jorge Pena Queralta, University of Turku
+- Prateek Nagras, Technoyantra
+- Ryan Lee, REALLY
+- Aditya Pande, Open Robotics
+- Maria Vergo, ROS-Industrial

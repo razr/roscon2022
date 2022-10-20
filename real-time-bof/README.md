@@ -1,5 +1,13 @@
 # real-time
 
+## Description
+
+For those interested in ROS2 real-time I’ve booked a Birds of a Feather session at ROSCon 2022 happening on Day 2 during Break 2 (1520-1550 JST) and we’ll be meeting at `Humble` which is 1F near the Main Hall, see https://roscon.ros.org/2022/#community for the map
+
+## Location
+
+Day 2, Break 2, 1520-1550, Humble
+
 ## Participants
 
 - Cian Donovan, Akara Robotics
@@ -35,3 +43,8 @@
 - Divya Aggrawal, Apex.AI
 - Claus Smitt, 
 - Ibrahim Essam Abdelmonem, Kudan
+
+
+## References
+
+* https://github.com/ros-realtime/community

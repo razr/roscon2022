@@ -27,7 +27,7 @@ Day 1, Break 2, 1510-1540, Humble
 - Mojtaba Leox Karimi, Olive Robotics
 - Niamh Donnelly, Akara Robotics
 - Divya Aggrawal, Apex.AI
-- Make Baker, eSol
+- Mike Baker, eSol
 - Gourav Vikhe, Technoyantra
 - Jorge Pena Queralta, University of Turku
 - Prateek Nagras, Technoyantra

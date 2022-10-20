@@ -20,3 +20,6 @@ Day 2, Lunch, 1320-1350, Humble
 - Michael Jeronimo
 
 ## References
+
+* https://github.com/Wind-River/vxworks7-ros2-build
+* https://www.windriver.com/products/vxworks

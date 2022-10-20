@@ -38,5 +38,7 @@ Day 1, Break 2, 1510-1540, Humble
 ## References
 
 * https://github.com/ros/meta-ros/
+* https://wiki.yoctoproject.org/wiki/Releases
 * https://discourse.ros.org/t/ros-2-tsc-meeting-january-20th-2022/23986/2
 * https://discourse.ros.org/t/meta-ros-bof-at-roscon/27862
+* https://github.com/crops/yocto-dockerfiles

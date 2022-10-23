@@ -58,6 +58,7 @@ Day 2, Break 2, 1520-1550, Humble
 - Shuhau Wu, Cactus Dynamics
 - Javier Choclin, Kudan
 - Denis Stogl, Stogl Robotics
+- Austin Schuh, Blue River
 
 ## References
 

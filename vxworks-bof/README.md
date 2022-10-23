@@ -13,11 +13,12 @@ Day 2, Lunch, 1320-1350, Humble
 
 ## Participants
 
-- Ryan Lee
-- Barrett Ames
-- Samet Kütük
-- Larry Dimitrievski
-- Michael Jeronimo
+- Ryan Lee, REALLY
+- Barrett Ames, BotBuilt
+- Samet Kütük, Leo Drive
+- Shashank Sharma, Karl 
+- Larry Dimitrievski, Engineering Solution Danlaw
+- Michael Jeronimo, Open Robotics
 
 ## References
 
